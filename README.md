@@ -15,9 +15,8 @@ An Android app that sends emergency SMS when the device is shaken. It includes f
 - GPT (for AI features)
 - Speech-to-Text
 
-## 📦 APK
-Download the APK here: [`app-release.apk`](apk/app-release.apk)
-
+### 📦 APK
+Download the APK here: [SafetyApp v1.0.0](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.0/safetyapp.apk)
 ## 🚀 How to Run
 1. Clone the repo
 2. Open in Android Studio
